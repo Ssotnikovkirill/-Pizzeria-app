@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LT7Qgrm2yrrbjih8GDcyCo0CNhjygt7CYHwiJtpugUg=",
+  "Source": "PizzaDeliveryBackend",
+  "BasePath": "_content/PizzaDeliveryBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
